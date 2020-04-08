@@ -16,7 +16,7 @@ h1, h2, h3 {
 }
 
 .banner {
-  background-image: url('images/bg.jpg');
+  background-image: url('../images/bg.jpg');
   background-size: cover;
   background-position: center;
   padding: 150px 0;

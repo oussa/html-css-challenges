@@ -6,4 +6,4 @@ A good enough challenge to manipulate both HTML tags and css classes and create 
 
 Build a page matching the following screenshot:
 ![Here is what you should build in this challenge](images/end-result.png)
-You can also see the end result [here](https://oussa.github.io/html-css-challenges/challenge3/).
+You can also see the end result [here](https://oussa.github.io/html-css-challenges/challenge3/solution/).

@@ -11,7 +11,7 @@ Build a simple HTML page with the following elements (use the right HTML tags):
 - a description of yourself
 - a list of your social links
 
-A picture is worth a thousand words, [here is what you should build in this challenge](https://oussa.github.io/html-css-challenges/challenge1/)
+A picture is worth a thousand words, [here is what you should build in this challenge](https://oussa.github.io/html-css-challenges/challenge1/solution/)
 
 ## Tips & Resources
 

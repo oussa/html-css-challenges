@@ -4,7 +4,7 @@ Use advanced selectors (id, class, grouping, descendant selectors) to fine-tune 
 
 ## Specs
 
-Here is [your objective](http://oussa.github.io/html-css-challenges/challenge2/). Any time you want to **name** an element of your page, ask yourself:
+Here is [your objective](http://oussa.github.io/html-css-challenges/challenge2/solution/). Any time you want to **name** an element of your page, ask yourself:
 
 - What name should I pick for my css class?
 - Should I split this design into different classes
